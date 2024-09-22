@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rivo/uniseg"
+	"github.com/ales999/uniseg"
 )
 
 //go:generate go run script/generate.go
